@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<div id='logo_div' style="background-color:#44f; float:left;"></div>
+<div id='logo_div' style="background-color:#44f; float: left;"></div>
 <script src="./canvas_turtle.packed.js" type="text/javascript"></script>
 <script>
 var t = new canvas_turtle("logo_div", {
@@ -30,6 +30,8 @@ t.move(50);
 t.right(180);
 t.turtleprint("Hello world");
 </script>
-<a href="http://webcodingeasy.com/JS-classes/Canvas-Turtle-graphics-using-javascript#js_api_method_list">Turtle graphics function documentatino</a>
+<p style="clear: both;">
+<a href="http://webcodingeasy.com/JS-classes/Canvas-Turtle-graphics-using-javascript#js_api_method_list">Turtle graphics function documentation</a>
+</p>
 </body>
 </html>
